@@ -4,5 +4,3 @@ ident_style = space
 ident_size = 2
 insert_final_newline = true
 trim_trailing_whitespase = true
-
-
